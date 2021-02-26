@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "util": "0.11.1"
-  },
   "devDependencies": {
     "composer-front-end-config": "6.1.2",
     "config-extend": "^0.1.1",

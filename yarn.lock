@@ -11161,9 +11161,9 @@ string-width@^1.0.1, string-width@^1.0.2:
     strip-ansi "^4.0.0"
 
 string-width@^4.1.0, string-width@^4.2.0:
-  version "4.2.0"
-  resolved "http://artifactory-slc.oraclecorp.com/artifactory/api/npm/npm-virtual/string-width/-/string-width-4.2.0.tgz#952182c46cc7b2c313d1596e623992bd163b72b5"
-  integrity sha1-lSGCxGzHssMT0VluYjmSvRY7crU=
+  version "4.2.1"
+  resolved "http://artifactory-slc.oraclecorp.com/artifactory/api/npm/npm-virtual/string-width/-/string-width-4.2.1.tgz#1933ce1f470973d224368009bd1316cad81d5f4f"
+  integrity sha1-GTPOH0cJc9IkNoAJvRMWytgdX08=
   dependencies:
     emoji-regex "^8.0.0"
     is-fullwidth-code-point "^3.0.0"
@@ -12232,17 +12232,17 @@ util@0.10.3:
   dependencies:
     inherits "2.0.1"
 
-util@0.11.1, util@^0.11.0:
-  version "0.11.1"
-  resolved "http://artifactory-slc.oraclecorp.com/artifactory/api/npm/npm-virtual/util/-/util-0.11.1.tgz#3236733720ec64bb27f6e26f421aaa2e1b588d61"
-  integrity sha1-MjZzNyDsZLsn9uJvQhqqLhtYjWE=
-  dependencies:
-    inherits "2.0.3"
-
 util@^0.10.3:
   version "0.10.4"
   resolved "http://artifactory-slc.oraclecorp.com/artifactory/api/npm/npm-virtual/util/-/util-0.10.4.tgz#3aa0125bfe668a4672de58857d3ace27ecb76901"
   integrity sha1-OqASW/5mikZy3liFfTrOJ+y3aQE=
+  dependencies:
+    inherits "2.0.3"
+
+util@^0.11.0:
+  version "0.11.1"
+  resolved "http://artifactory-slc.oraclecorp.com/artifactory/api/npm/npm-virtual/util/-/util-0.11.1.tgz#3236733720ec64bb27f6e26f421aaa2e1b588d61"
+  integrity sha1-MjZzNyDsZLsn9uJvQhqqLhtYjWE=
   dependencies:
     inherits "2.0.3"
 

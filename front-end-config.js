@@ -5,7 +5,8 @@ module.exports = {
 		base: {
 			entry: {
 				index: 'js/index.js'
-			}
+			},
+			ie11: true
 		}
 	}
 };

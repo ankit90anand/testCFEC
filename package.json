@@ -1,0 +1,15 @@
+{
+  "name": "testCFEC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "config-extend": "^0.1.1",
+    "grunt": "1.0.1",
+    "grunt-cli": "1.2.0",
+    "grunt-contrib-symlink": "^1.0.0",
+    "load-grunt-config": "0.19.2",
+    "composer-front-end-config": "6.1.2"
+  }
+}
